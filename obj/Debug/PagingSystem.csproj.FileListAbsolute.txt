@@ -1,0 +1,8 @@
+C:\Users\jaeyoung\Desktop\PagingSystem\PagingSystem\bin\Debug\PagingSystem.exe.config
+C:\Users\jaeyoung\Desktop\PagingSystem\PagingSystem\obj\Debug\PagingSystem.csprojResolveAssemblyReference.cache
+C:\Users\jaeyoung\Desktop\PagingSystem\PagingSystem\obj\Debug\PagingSystem.Properties.Resources.resources
+C:\Users\jaeyoung\Desktop\PagingSystem\PagingSystem\obj\Debug\PagingSystem.csproj.GenerateResource.Cache
+C:\Users\jaeyoung\Desktop\PagingSystem\PagingSystem\bin\Debug\PagingSystem.exe
+C:\Users\jaeyoung\Desktop\PagingSystem\PagingSystem\bin\Debug\PagingSystem.pdb
+C:\Users\jaeyoung\Desktop\PagingSystem\PagingSystem\obj\Debug\PagingSystem.exe
+C:\Users\jaeyoung\Desktop\PagingSystem\PagingSystem\obj\Debug\PagingSystem.pdb
