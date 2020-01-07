@@ -16,3 +16,26 @@
 |D|24|EMERALD|  
 
 ### 실행  
+<div align="center">
+  <table align="center" border="0" >
+  <tr>
+    <td> <img src="https://github.com/leejaeyeong/Paging_System_Simulator/blob/master/images/noname01.png" width="800" height="auto">
+   </td>
+   <td> <img src="https://github.com/leejaeyeong/Paging_System_Simulator/blob/master/images/noname02.png" width="800" height="auto"></td>
+  </tr>
+  <tr>
+    <td>프로세스 실행 전. 프로세스 A, B, C, D와 메모리 현황 </td>
+   <td>A 프로세스만 실행. 순차적으로 메모리에 페이지가 적재됨 </td>
+  </tr>
+  <tr>
+    <td> <img src="https://github.com/leejaeyeong/Paging_System_Simulator/blob/master/images/noname03.png" width="800" height="auto"></td>
+   <td> <img src="https://github.com/leejaeyeong/Paging_System_Simulator/blob/master/images/noname04.png" width="800" height="auto"></td>
+  </tr>
+   <tr>
+    <td>A 프로세스 실행 중 B 프로세스가 실행될 경우 각 프로세스를 교차하여 적재(비연속적) </td>
+     <td>프로세스 A,B,C,D가 메모리에 모두 적재됨 </td>
+  </tr>
+
+  
+</table>
+  </div>
